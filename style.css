@@ -41,6 +41,7 @@
     background-color: transparent;
     border: 2px solid white;
     border: 2px solid var(--branco-principal);
+    font-size: 20;
   }
   
   .container__titulo {
