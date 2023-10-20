@@ -25,7 +25,8 @@
   .container {
     height: 100vh;
     display: grid;
-    grid-template-columns: 50% 50%;  
+    grid-template-columns: 50% 50%;
+    align-items: center;  
   }
   
   .container__botao {
